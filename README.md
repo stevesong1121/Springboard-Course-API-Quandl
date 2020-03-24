@@ -23,4 +23,3 @@ What was the average daily trading volume during this year?
 
 (Optional) What was the median trading volume during this year. (Note: you may need to implement your own function for calculating the median.)
 
-Keep in mind that the JSON responses you will be getting from the API map almost one-to-one to Python's dictionaries. Unfortunately, they can be very nested, so make sure you read up on indexing dictionaries in the documentation provided below.
